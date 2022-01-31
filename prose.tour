@@ -1,0 +1,11 @@
+{
+    "$schema": "https://aka.ms/codetour-schema",
+    "title": "Tailwind prose",
+    "steps": [
+      {
+        "file": "index.html",
+        "line": 25,
+        "description": "Tilføj prose-klasserne her."
+      }
+    ]
+  }
